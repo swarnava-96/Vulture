@@ -15,5 +15,5 @@ pip install vulture
 vulture "filename".py
 ```
 
+![Screenshot (95)](https://user-images.githubusercontent.com/75041273/128084244-a11f5afb-dbbc-465c-a891-fcc9a3cd0d6f.png)
 
-![Screenshot (94)](https://user-images.githubusercontent.com/75041273/128082872-c6919c7f-2b00-4cb2-b928-0a07edf146ff.png)
